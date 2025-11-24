@@ -1,0 +1,20 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1763607580" />
+    <testcase name="run_test_write_read_single_001" classname="test_axi_pipeline" file="/home/chen/base/lib/python3.10/site-packages/cocotb/regression.py" lineno="727" time="0.03357124328613281" sim_time_ns="230.001" ratio_time="6851.131429350605" />
+    <testcase name="run_test_write_burst_001" classname="test_axi_pipeline" file="/home/chen/base/lib/python3.10/site-packages/cocotb/regression.py" lineno="727" time="0.020988941192626953" sim_time_ns="290.001" ratio_time="13816.847516913918" />
+    <testcase name="run_test_read_burst_001" classname="test_axi_pipeline" file="/home/chen/base/lib/python3.10/site-packages/cocotb/regression.py" lineno="727" time="0.03972291946411133" sim_time_ns="370.0010000000001" ratio_time="9314.546991801215" />
+    <testcase name="run_test_multiple_outstanding_001" classname="test_axi_pipeline" file="/home/chen/base/lib/python3.10/site-packages/cocotb/regression.py" lineno="727" time="0.04066205024719238" sim_time_ns="860.0009999999999" ratio_time="21149.966486487752" />
+    <testcase name="run_test_concurrent_read_write_001" classname="test_axi_pipeline" file="/home/chen/base/lib/python3.10/site-packages/cocotb/regression.py" lineno="727" time="0.018601417541503906" sim_time_ns="340.0010000000002" ratio_time="18278.23063706743" />
+    <testcase name="run_test_max_size_transfer_001" classname="test_axi_pipeline" file="/home/chen/base/lib/python3.10/site-packages/cocotb/regression.py" lineno="727" time="0.02355337142944336" sim_time_ns="530.0009999999997" ratio_time="22502.128902763427" />
+    <testcase name="run_test_unaligned_access_001" classname="test_axi_pipeline" file="/home/chen/base/lib/python3.10/site-packages/cocotb/regression.py" lineno="727" time="0.02542853355407715" sim_time_ns="570.0010000000002" ratio_time="22415.803050058606" />
+    <testcase name="run_test_address_boundary_001" classname="test_axi_pipeline" file="/home/chen/base/lib/python3.10/site-packages/cocotb/regression.py" lineno="727" time="0.0210421085357666" sim_time_ns="390.00099999999975" ratio_time="18534.311774748734" />
+    <testcase name="run_test_data_patterns_001" classname="test_axi_pipeline" file="/home/chen/base/lib/python3.10/site-packages/cocotb/regression.py" lineno="727" time="0.03234243392944336" sim_time_ns="1030.0010000000002" ratio_time="31846.737392955612" />
+    <testcase name="run_test_reset_during_transfer_001" classname="test_axi_pipeline" file="/home/chen/base/lib/python3.10/site-packages/cocotb/regression.py" lineno="727" time="0.02905106544494629" sim_time_ns="1620.0010000000002" ratio_time="55763.91003868724" />
+    <testcase name="run_test_back_to_back_transactions_001" classname="test_axi_pipeline" file="/home/chen/base/lib/python3.10/site-packages/cocotb/regression.py" lineno="727" time="0.06479978561401367" sim_time_ns="2630.001" ratio_time="40586.56946283528" />
+    <testcase name="run_test_random_stress_001" classname="test_axi_pipeline" file="/home/chen/base/lib/python3.10/site-packages/cocotb/regression.py" lineno="727" time="0.16537094116210938" sim_time_ns="8070.000999999998" ratio_time="48799.389682913876" />
+    <testcase name="run_test_write_only_sequence_001" classname="test_axi_pipeline" file="/home/chen/base/lib/python3.10/site-packages/cocotb/regression.py" lineno="727" time="0.06219220161437988" sim_time_ns="2630.001" ratio_time="42288.27621037136" />
+    <testcase name="run_test_read_only_sequence_001" classname="test_axi_pipeline" file="/home/chen/base/lib/python3.10/site-packages/cocotb/regression.py" lineno="727" time="0.07080793380737305" sim_time_ns="2630.001" ratio_time="37142.744585016335" />
+    <testcase name="run_test_pipeline_depth_validation_001" classname="test_axi_pipeline" file="/home/chen/base/lib/python3.10/site-packages/cocotb/regression.py" lineno="727" time="0.01795172691345215" sim_time_ns="230.0010000000002" ratio_time="12812.193562706698" />
+  </testsuite>
+</testsuites>

@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1763688485" />
+    <testcase name="run_test_backpressure_001" classname="test_axis_bus_pipeline" file="/home/chen/base/lib/python3.10/site-packages/cocotb/regression.py" lineno="727" time="0.09497261047363281" sim_time_ns="7100.001" ratio_time="74758.40628779145" />
+  </testsuite>
+</testsuites>
